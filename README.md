@@ -10,9 +10,11 @@ No momento, busco uma oportunidade de estágio na área de TI, onde eu possa apr
 
 
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=#FF0000&color:#FF0000)](mailto:lucasandradedemelo377@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/lucas-melo-631289264/)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://lucasmelo1704.github.io/siteportf-lio/)
+<div> 
+  <a href="https://instagram.com/sla._melo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lucasandradedemelo377@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-melo-631289264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 #
 <table style="border: none;" align="right">
