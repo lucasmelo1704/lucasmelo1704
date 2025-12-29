@@ -18,7 +18,7 @@ No momento, busco uma oportunidade de estágio na área de TI, onde eu possa apr
 <table style="border: none;" align="right">
   <tr>
     <td>
-        <img align="right" width="235" height="230" src="./IMG/220233.gif">
+        <img align="right" width="235" height="230" src="./220233.gif">
 
   </td>
   </tr>
