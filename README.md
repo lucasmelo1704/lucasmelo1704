@@ -45,11 +45,7 @@ No momento, busco uma oportunidade de estágio na área de TI, onde eu possa apr
 <br><br>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/lucasmelo1704/lucasmelo1704/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/lucasmelo1704/lucasmelo1704/output/github-contribution-grid-snake.svg">
-  <img align="center"
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/lucasmelo1704/lucasmelo1704/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasmelo1704/lucasmelo1704/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasmelo1704/lucasmelo1704/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucasmelo1704/lucasmelo1704/output/github-contribution-grid-snake.svg">
 </picture>
