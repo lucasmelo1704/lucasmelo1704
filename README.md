@@ -31,11 +31,8 @@ No momento, busco uma oportunidade de estágio na área de TI, onde eu possa apr
 <br>
 <br>
 <div style="display: inline_block">
-<img align="left" height="65" width="65" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="left" height="65" width="65" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="left" height="65" width="65" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="left" height="65" width="65" alt="git-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 <img align="left" height="65" width="65" alt="NodeJS-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+<img align="left" height="65" width="65" alt="git-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
           
           
           
